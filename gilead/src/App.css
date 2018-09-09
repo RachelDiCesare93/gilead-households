@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Homemade Apple', cursive;
+}
+
+h2{
+  font-family:  'Oswald', sans-serif;
+}
+
+h3{
+  font-family: 'Oswald', sans-serif;
+  font-weight: lighter;
+}
+
+.household , .commander , h3{
+  color:#625B5B;
+}
+
+.household  , .wife  ,h3 {
+  color: teal;
+  }
+
+  .household , .handmaid ,h3{
+    color: maroon;
+  }
